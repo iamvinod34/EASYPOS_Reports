@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<RptDataSource xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" Name="EASYPOS">
+  <ConnectionProperties>
+    <Extension>SQL</Extension>
+    <ConnectString>Data Source=WIN-RS0J6DTK9LP;Initial Catalog=possa</ConnectString>
+    <Prompt>Specify a user name and password for data source EASYPOS:</Prompt>
+  </ConnectionProperties>
+  <DataSourceID>ca3190f9-0c40-4be4-97c8-b61269977bc9</DataSourceID>
+</RptDataSource>
