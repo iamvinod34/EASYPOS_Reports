@@ -18,6 +18,70 @@
       <Name>POReceive.rdl</Name>
       <FullPath>POReceive.rdl</FullPath>
     </ProjectItem>
+    <ProjectItem>
+      <Name>Return_To_Supplier.rdl</Name>
+      <FullPath>Return_To_Supplier.rdl</FullPath>
+    </ProjectItem>
+    <ProjectItem>
+      <Name>Transfer_To_Display.rdl</Name>
+      <FullPath>Transfer_To_Display.rdl</FullPath>
+    </ProjectItem>
+    <ProjectItem>
+      <Name>Stock_Receive_Details.rdl</Name>
+      <FullPath>Stock_Receive_Details.rdl</FullPath>
+    </ProjectItem>
+    <ProjectItem>
+      <Name>PhysicalInventory_Details.rdl</Name>
+      <FullPath>PhysicalInventory_Details.rdl</FullPath>
+    </ProjectItem>
+    <ProjectItem>
+      <Name>PhysicalInventory_Differende_Details.rdl</Name>
+      <FullPath>PhysicalInventory_Differende_Details.rdl</FullPath>
+    </ProjectItem>
+    <ProjectItem>
+      <Name>Location.rdl</Name>
+      <FullPath>Location.rdl</FullPath>
+    </ProjectItem>
+    <ProjectItem>
+      <Name>Terminal.rdl</Name>
+      <FullPath>Terminal.rdl</FullPath>
+    </ProjectItem>
+    <ProjectItem>
+      <Name>Sub_Terminal.rdl</Name>
+      <FullPath>Sub_Terminal.rdl</FullPath>
+    </ProjectItem>
+    <ProjectItem>
+      <Name>Vendor.rdl</Name>
+      <FullPath>Vendor.rdl</FullPath>
+    </ProjectItem>
+    <ProjectItem>
+      <Name>Category.rdl</Name>
+      <FullPath>Category.rdl</FullPath>
+    </ProjectItem>
+    <ProjectItem>
+      <Name>Sub_Category.rdl</Name>
+      <FullPath>Sub_Category.rdl</FullPath>
+    </ProjectItem>
+    <ProjectItem>
+      <Name>Sub_SubCategory.rdl</Name>
+      <FullPath>Sub_SubCategory.rdl</FullPath>
+    </ProjectItem>
+    <ProjectItem>
+      <Name>UOM.rdl</Name>
+      <FullPath>UOM.rdl</FullPath>
+    </ProjectItem>
+    <ProjectItem>
+      <Name>Material.rdl</Name>
+      <FullPath>Material.rdl</FullPath>
+    </ProjectItem>
+    <ProjectItem>
+      <Name>PriceFile.rdl</Name>
+      <FullPath>PriceFile.rdl</FullPath>
+    </ProjectItem>
+    <ProjectItem>
+      <Name>Sub_PriceFile.rdl</Name>
+      <FullPath>Sub_PriceFile.rdl</FullPath>
+    </ProjectItem>
   </Reports>
   <Configurations>
     <Configuration>
